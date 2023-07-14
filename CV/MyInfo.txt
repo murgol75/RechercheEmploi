@@ -4,3 +4,5 @@ date naissance :  Along time ago
 adresse e-mai : adresse@e.mail
 adresse postale : 1 rue des huns, 1111 Bruxelles
 telephone : 0471 23 45 67
+
+Hobbies : Jeu de rôle, jeux de société, théâtre
